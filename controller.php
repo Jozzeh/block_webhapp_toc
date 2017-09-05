@@ -21,12 +21,12 @@ class Controller extends Package
 
     public function getPackageDescription()
     {
-        return t('Adds table of content block to Concrete5.');
+        return t('Adds table of content block with anchors.');
     }
 
     public function getPackageName()
     {
-        return t('Table Of Content Block');
+        return t('Smooth anchors');
     }
 
     public function install()
