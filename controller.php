@@ -5,7 +5,7 @@ defined('C5_EXECUTE') or die('Access Denied.');
 
 /*
 Inspiration Basic version : http://www.dynamicdrive.com/dynamicindex5/automatic-header-anchor-links.htm
-Adapted for Concrete5 by Jozzeh
+Adapted for Concrete5 by Jos De Berdt / Webhapp
 */
 
 use \Concrete\Core\Package\Package;
